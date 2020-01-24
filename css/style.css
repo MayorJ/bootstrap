@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    background-image: url("pictures/products.jpg");
+}
+
+.main {
+    background-color: black;
+    height: 900px;
+    width: 1200px;
+}
+.jumbotron {
+    background-color: beige;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
